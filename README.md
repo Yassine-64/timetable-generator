@@ -46,8 +46,6 @@ This system is built on the foundation of Constraint Satisfaction Problem (CSP) 
 <img width="650px" src="https://user-images.githubusercontent.com/56782318/141955813-15e0340d-72a6-4a49-afd0-40513cba9673.png"/>
 
 ## 📸 Interface Preview
-
-<img width="900px" src="https://user-images.githubusercontent.com/56782318/141957853-b9f67c46-2327-4c65-bd6b-288707c9917f.png"/>
 <img width="900px" src="https://user-images.githubusercontent.com/56782318/141957891-8aa7cd5f-62b9-4680-a312-59307e184a4f.png"/>
 <img width="900px" src="https://user-images.githubusercontent.com/56782318/141958163-f2654097-9f44-4a5a-a311-3e48e77b168d.png"/>
 
