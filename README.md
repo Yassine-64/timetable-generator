@@ -69,13 +69,13 @@ git clone https://github.com/Yassine-64/timetable-generator.git
 
 2.Install dependencies
 
-# Frontend dependencies
+### Frontend dependencies
 
 ```bash
 npm install
 ```
 
-# Backend dependencies
+### Backend dependencies
 
 ```bash
 cd backend
